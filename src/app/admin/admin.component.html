@@ -1,0 +1,8 @@
+<app-menu></app-menu>
+<br>
+
+<p>tula ithe data featch karaycha aahe me tula ek skelaton create karun dila aahe ithe bas URL locahost chi</p>
+<p *ngIf="!profile">Loading data ...</p>
+<div>
+    <button (click)="loadOrderData()">Load Orders</button>{{ profile | json }}
+</div>

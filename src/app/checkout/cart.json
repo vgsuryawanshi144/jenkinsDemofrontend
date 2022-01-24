@@ -1,0 +1,24 @@
+{
+    "customerDetails": {
+        "firstName": "Gaurav",
+        "lastName": "Suryawanshi",
+        "email": "vvgsuryawanshi144@gmail.com",
+        "mobile": "8888147876",
+        "addressOne": "Hadapsar pune 28",
+        "addressTwo": "Hadapsar pune 28",
+        "city": "Pune",
+        "state": "Tamil Nadu",
+        "zip": "411028",
+        "paymentmode": "UPI"
+    },
+    "itmes": 
+        {
+            "pid": "2",
+            "name": "CNG Gas",
+            "qty": 1,
+            "price": 380
+        },
+    "orderTotal": 908,
+    "orderNumber": 8467,
+    "orderDate": "2021-01-30T04:55:11.653Z"
+}
